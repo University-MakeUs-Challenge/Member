@@ -1,7 +1,5 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": ["README.md"],
   "imageSize": 100,
   "commit": false,
   "commitConvention": "angular",
@@ -11,10 +9,7 @@
       "name": "박창현",
       "avatar_url": "https://avatars.githubusercontent.com/u/86464544?v=4",
       "profile": "https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5",
-      "contributions": [
-        "code",
-        "maintenance"
-      ]
+      "contributions": ["maintenance", "code"]
     }
   ],
   "contributorsPerLine": 7,
