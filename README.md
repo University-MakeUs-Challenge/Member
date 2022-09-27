@@ -14,7 +14,7 @@ UMC 구성원을 소개하는 레포
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5"><img src="https://avatars.githubusercontent.com/u/86464544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박창현</b></sub></a><br /><a href="https://github.com/University-MakeUs-Challenge/Member/commits?author=Kid-Chang" title="Code">💻</a></td>
+      <td align="center"><a href="https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5"><img src="https://avatars.githubusercontent.com/u/86464544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박창현</b></sub></a><br /><a href="https://github.com/University-MakeUs-Challenge/Member/commits?author=Kid-Chang" title="Code">💻</a> <a href="#maintenance-Kid-Chang" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
