@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Kid-Chang",
+      "name": "박창현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86464544?v=4",
+      "profile": "https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Member",
+  "projectOwner": "University-MakeUs-Challenge"
+}
