@@ -1,9 +1,8 @@
 # University MakeUS Challenge Members
-UMC는 Break the rules라는 슬로건을 가진 대학생 연합 동아리로서, 아웃소싱을 꿈꾸는 대학생들이 모여 함께 성장하는 Play Ground !
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
+<img src="./assets/umc_flat_black_bh.png" style="width: 30rem" />
+<br/>
+UMC는 Break the rules라는 슬로건을 가진 대학생 연합 동아리로서, 아웃소싱을 꿈꾸는 대학생들이 모여 함께 성장하는 <strong>Play Ground !</strong>
+<br/><br/>
 
 ## 아래는 현재까지 운영된 기수 입니다
 | 기수. |  학교 모아보기. | 
@@ -12,7 +11,7 @@ UMC는 Break the rules라는 슬로건을 가진 대학생 연합 동아리로�
 | 2nd UMC | Univ  | 
 | 3rd UMC | [Univ](/3rd/Univ.md) | 
 
-## Contributors
+## 운영사무국 & 리더진
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -36,3 +35,10 @@ UMC는 Break the rules라는 슬로건을 가진 대학생 연합 동아리로�
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
